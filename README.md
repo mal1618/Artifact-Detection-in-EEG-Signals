@@ -54,8 +54,8 @@ mne-methods/ (python package)
     * Output: mean referenced raw file, nans
     * Mean references, replacing NaN with zero and filter data
 
-and three jupyter-notebooks:
-* Load, plot, calculate IC from raw file
+and four jupyter-notebooks:
+* Load, plot, calculate IC from raw file.ipynb
 * Optimisation_Measured_data.ipynb
 * Optimisation_Simulated_data.ipynb
 * Break_test_simulated.ipynb
